@@ -32,4 +32,5 @@ print(phrase, len(phrase))
 phrase_two = "Python "
 phrase_three = "Learning"
 print(phrase_two.lower() + phrase_three.upper()) 
+#return the index location of a string
 print(phrase_two.index("t"))
