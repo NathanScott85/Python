@@ -1,6 +1,3 @@
-#Import Statements
-from Test import *
-from Test import John
 
 #This is how we do comments
 #Assigning String Values
