@@ -32,3 +32,4 @@ print(phrase, len(phrase))
 phrase_two = "Python "
 phrase_three = "Learning"
 print(phrase_two.lower() + phrase_three.upper()) 
+print(phrase_two.index("t"))
