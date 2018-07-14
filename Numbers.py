@@ -1,3 +1,4 @@
+from math import *
 Pi = 3.14
 number_one = 3
 number_two = 5
@@ -23,3 +24,10 @@ print(abs(negative_Five))
 
 #Powers
 print(pow(4, 4))
+#Max
+print(max(66, 56))
+#Min
+print(min(66, 56))
+print(round(3.5, 4))
+
+print(floor(3.145654))
