@@ -17,3 +17,6 @@ print(number_four * (Pi / number_three))
 
 #Modular giving the remainder
 print (number_four % number_one)
+
+#Absolute value
+print(abs(negative_Five))
