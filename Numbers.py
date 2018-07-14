@@ -20,3 +20,6 @@ print (number_four % number_one)
 
 #Absolute value
 print(abs(negative_Five))
+
+#Powers
+print(pow(4, 4))
