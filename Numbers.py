@@ -31,3 +31,6 @@ print(min(66, 56))
 print(round(3.5, 4))
 
 print(floor(3.145654))
+#Ciel & Sqaure Root
+print(ceil(3.645654))
+print(sqrt(256))
